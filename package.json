@@ -8,9 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "inquirer": "^9.2.23",
     "qr-image": "^3.2.0"
-  }
+  },
+  "description": "",
+  "type": "module"
 }
